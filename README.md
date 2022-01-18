@@ -9,5 +9,5 @@ Condition 3: Increased Train Speed only
 Condition 4: Train Skipping At Certain Stations During Full Capacity only
 
 
-**Collaborator**: Allan Pecundo
+**Collaborator**: Allan Pecundo\
 **Faculty Advisers**: Dr. Patricia Abu, Dr. Christian Chan Shio, Mr. Jose Alfredo De Vera III
