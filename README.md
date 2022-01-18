@@ -11,5 +11,5 @@ Objective of the exercise was to measure the queueing time of passengers  during
 **Condition 4**: Train Skipping At Certain Stations During Full Capacity only
 
 
-##**Collaborator**: Allan Pecundo\
-## **Faculty Advisers**: Dr. Patricia Abu, Dr. Christian Chan Shio, Mr. Jose Alfredo De Vera III
+#### **Collaborator**: Allan Pecundo\
+#### **Faculty Advisers**: Dr. Patricia Abu, Dr. Christian Chan Shio, Mr. Jose Alfredo De Vera III
