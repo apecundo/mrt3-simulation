@@ -1,5 +1,5 @@
 # mrt3-simulation
-## Project simulating MRT-3 queue time subject to various conditions via Discrete-Event Simulation. \
+## Project simulating MRT-3 queue time subject to various conditions via Discrete-Event Simulation.
 
 Objective of the exercise was to measure the queueing time of passengers  during the rush hour operations of the train station and the effect of certain interventions on the queueing time.
 
